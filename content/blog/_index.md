@@ -1,11 +1,9 @@
 ---
 title: Blog
-weight: 60
 ---
 
-
-{{< headline-icon icon="icon-power.svg" >}}
+{{< headline-icon icon="icon-exclamation.svg" color="red" >}}
 
 {{< headline-brackets-h1 color="blue"  >}}
-Was bei uns passiert
+Blog
 {{< /headline-brackets-h1  >}}

@@ -4,9 +4,11 @@ title: OK Lab Bonn-Rhein-Sieg
 lat: 50.7371974
 long: 7.0947157
 markerposition: right
+inactive: true
 
 aliases:
 - /bonn
+- /bn
 
 members:
 

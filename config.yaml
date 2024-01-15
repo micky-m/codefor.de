@@ -18,6 +18,37 @@ params:
     - FOSS
     - Digitales Ehrenamt
 
+languages:
+  de:
+    languageName: Deutsch
+    weight: 1
+  en:
+    languageName: English
+    weight: 2
+
+menu:
+  main:
+  - identifier: community
+    pageRef: community
+    name: Community
+    url: /community/
+    weight: 1
+  - identifier: projekte
+    pageRef: projekte
+    name: Projekte
+    url: /projekte/
+    weight: 4
+  - identifier: blog
+    pageRef: blog
+    name: Blog
+    url: /blog/
+    weight: 5
+  - identifier: spenden
+    pageRef: spenden
+    name: Spenden
+    url: /spenden/
+    weight: 7
+
 frontmatter:
   date: [":filename", ":default"]
 
@@ -30,7 +61,7 @@ enableRobotsTXT: true
 
 # Generates the taxonomie pages /categories and /tags
 # taxonomies:
-#   category: categories 
+#   category: categories
 #   tag: tags
 
 # currently we dont use taxonomie pages

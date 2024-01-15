@@ -5,6 +5,7 @@ lab: OK Lab Potsdam
 lat: 52.38947
 long: 13.07853
 markerposition: left
+inactive: true
 
 aliases:
 - /potsdam
@@ -14,11 +15,8 @@ members: []
 
 links:
 
-- name: Homepage
-  url: http://www.oklab-potsdam.de
-
-- name: Meetup
-  url: http://www.meetup.com/OK-Lab-Potsdam
+- name: GetTogether
+  url: https://gettogether.community/ok-lab-potsdam/
 
 - name: Twitter
   url: https://twitter.com/oklabpdm

@@ -1,6 +1,7 @@
 # Hugo
 /public/
 /resources/
+/.hugo_build.lock
 
 # macOS
 .DS_Store
@@ -16,3 +17,5 @@ ehthumbs_vista.db
 .vscode/**
 
 *.orig
+# Local Netlify folder
+.netlify

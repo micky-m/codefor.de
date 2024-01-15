@@ -5,9 +5,11 @@ lat: 51.76892
 long: 14.32216
 markerposition: left # left | right
 showsignup: true # true | false
+inactive: true
 
 aliases:
 - /cottbus
+- /cb
 
 members:
 - name: "Benji"

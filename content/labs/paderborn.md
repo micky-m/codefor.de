@@ -3,9 +3,11 @@ city: Paderborn
 title: CodeforPB
 markerposition: right
 hide: true
+inactive: true
 
 aliases:
 - /paderborn
+- /pb
 
 members:
 

@@ -5,9 +5,11 @@ lab: OK Lab Heidelberg
 lat: 49.40768
 long: 8.69079
 markerposition: left
+inactive: true
 
 aliases:
 - /heidelberg
+- /hd
 
 members:
 - name: Jasper Schmidt
@@ -17,8 +19,6 @@ members:
   username_github: mandyr
 
 links:
-- name: Meetup
-  url: http://www.meetup.com/OK-Lab-Heidelberg/
 - name: Pad
   url: https://pad.ccc-mannheim.de/p/OKL-HD_Portal
 - name: Twitter

@@ -11,9 +11,6 @@ aliases:
 
 members:
 
-- name: Julia Kloiber
-  username_twitter: j_kloiber
-
 - name: Stefan Wehrmeyer
   username_github: stefanw
   username_twitter: stefanwehrmeyer
@@ -27,10 +24,6 @@ members:
 
 - name: Friedrich Lindenberg
   username_github: pudo
-
-- name: Fiona Krakenbürger
-  username_github: arduina
-  username_twitter: arduina
 
 - name: Sebastian Mondial
   username_twitter: kappuchino
@@ -179,7 +172,7 @@ members:
   username_github: zfhui
   username_twitter: zfhui
 
-- name: Jannis Redmann
+- name: Jannis R
   username_github: derhuerst
   username_twitter: derhuerst
 
@@ -198,6 +191,11 @@ links:
 - name: Mailingliste
   url: https://mlists.okfn.de/cgi-bin/mailman/listinfo/codeforberlin
 
+feeds:
+- type: ical
+  url: https://www.meetup.com/OK-Lab-Berlin/events/ical/
+- type: ical
+  url: https://gettogether.community/team/3242/events.ics
 
 leads:
 - name: E-Mail
